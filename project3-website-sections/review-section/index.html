@@ -1,45 +1,52 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Review</title>
-    <link
-      rel="stylesheet"
-      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css"
-    />
-    <link rel="stylesheet" href="styles.css" />
-  </head>
-  <body>
-    <main>
-      <section class="container">
-        <div class="title">
-          <h2>our reviews</h2>
-          <div class="underline"></div>
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Review</title>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css" />
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css" />
+</head>
+
+<body>
+  <main>
+    <section class="container">
+      <div class="title-container">
+        <div class="line"></div>
+        <h2 class="title">Testimonials</h2>
+      </div>
+      <div class="review">
+        <div class="review__img">
+          <div class="review__circle"></div>
+          <img src="assets/person.png" class="person-img" alt="person" />
+          <div class="review__xs-circle"></div>
         </div>
-        <article class="review">
-          <div class="img-container">
-            <img src="person.jpeg" id="person-img" alt="" />
-          </div>
-          <h4 id="author">sara jones</h4>
-          <p id="job">ux designer</p>
-          <p id="info">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto
-            asperiores debitis incidunt, eius earum ipsam cupiditate libero?
-            Iste, doloremque nihil?
+        <div class="review__content">
+          <p class="review__info">
+            I am satisfied with the training given by XYZ Pvt. Ltd on Web Designing. During training, the faculty was
+            able to clear my doubts regarding design process.
           </p>
-          <div class="button-container">
-            <button class="prev-btn">
-              <i class="fas fa-chevron-left"></i>
-            </button>
-            <button class="next-btn">
-              <i class="fas fa-chevron-right"></i>
-            </button>
+          <h4 class="review__author">Varsha Adhikari</h4>
+          <div class="review__left-quotes">
+            <img src="assets/comma.svg"/>
+            <img src="assets/comma.svg"/>
           </div>
-          <button class="random-btn">surprise me</button>
-        </article>
-      </section>
-    </main>
-    <script src="app.js"></script>
-  </body>
+        </div>
+        <button class="btn prev-btn">
+          <i class="fas fa-chevron-left"></i>
+        </button>
+        <button class="btn next-btn">
+          <i class="fas fa-chevron-right"></i>
+        </button>
+      </div>
+      <button class="btn btn--random">surprise me</button>
+    </section>
+  </main>
+  <script src="app.js"></script>
+</body>
+
 </html>
