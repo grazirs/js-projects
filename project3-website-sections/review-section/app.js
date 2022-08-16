@@ -24,15 +24,15 @@ able to clear my doubts regarding design process.`,
       "Sriracha literally flexitarian irony, vape marfa unicorn. Glossier tattooed 8-bit, fixie waistcoat offal activated charcoal slow-carb marfa.",
   },
   {
-    id: 0,
-    name: "Varsha Adhikari",
-    img: "assets/person.png",
+    id: 4,
+    name: "bob L.",
+    img: "https://dergreif-online.de/www/wp-content/uploads/2016/07/Timothy_hoch.jpg",
     text:
       `I am satisfied with the training given by XYZ Pvt. Ltd on Web Designing. During training, the faculty was
 able to clear my doubts regarding design process.`,
   },
   {
-    id: 2,
+    id: 5,
     name: "anna johnson",
     img:
       "https://res.cloudinary.com/diqqf3eq2/image/upload/v1586883409/person-2_np9x5l.jpg",
@@ -40,15 +40,15 @@ able to clear my doubts regarding design process.`,
       "Helvetica artisan kinfolk thundercats lumbersexual blue bottle. Disrupt glossier gastropub deep v vice franzen hell of brooklyn twee enamel.",
   },
   {
-    id: 0,
-    name: "Varsha Adhikari",
-    img: "assets/person.png",
+    id: 6,
+    name: "Drika P.",
+    img: "http://www.martacitterio.it/wp-content/uploads/2019/01/person2.jpg",
     text:
       `I am satisfied with the training given by XYZ Pvt. Ltd on Web Designing. During training, the faculty was
 able to clear my doubts regarding design process.`,
   },
   {
-    id: 3,
+    id: 7,
     name: "peter jones",
     img:
       "https://res.cloudinary.com/diqqf3eq2/image/upload/v1586883417/person-3_ipa0mj.jpg",
@@ -56,7 +56,7 @@ able to clear my doubts regarding design process.`,
       "Sriracha literally flexitarian irony, vape marfa unicorn. Glossier tattooed 8-bit, fixie waistcoat offal activated charcoal slow-carb marfa.",
   },
   {
-    id: 4,
+    id: 8,
     name: "bill anderson",
     img:
       "https://res.cloudinary.com/diqqf3eq2/image/upload/v1586883423/person-4_t9nxjt.jpg",
@@ -64,42 +64,41 @@ able to clear my doubts regarding design process.`,
       "Edison bulb put a bird on it humblebrag, marfa pok pok heirloom fashion axe cray stumptown venmo actually seitan. VHS farm-to-table schlitz.",
   },
   {
-    id: 4,
-    name: "bill anderson",
-    img:
-      "https://res.cloudinary.com/diqqf3eq2/image/upload/v1586883423/person-4_t9nxjt.jpg",
+    id: 9,
+    name: "Luana Silva",
+    img:"http://www.martacitterio.it/wp-content/uploads/2019/01/person5.jpg",
     text:
       "Edison bulb put a bird on it humblebrag, marfa pok pok heirloom fashion axe cray stumptown venmo actually seitan. VHS farm-to-table schlitz.",
   },
   {
-    id: 4,
-    name: "bill anderson",
+    id: 10,
+    name: "Anderson",
     img:
-      "https://res.cloudinary.com/diqqf3eq2/image/upload/v1586883423/person-4_t9nxjt.jpg",
+      "http://www.martacitterio.it/wp-content/uploads/2019/01/person6.jpg",
     text:
       "Edison bulb put a bird on it humblebrag, marfa pok pok heirloom fashion axe cray stumptown venmo actually seitan. VHS farm-to-table schlitz.",
   },
   {
-    id: 4,
-    name: "bill anderson",
+    id: 11,
+    name: "Clara Fagundes",
     img:
-      "https://res.cloudinary.com/diqqf3eq2/image/upload/v1586883423/person-4_t9nxjt.jpg",
+      "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8cmFuZG9tJTIwcGVvcGxlfGVufDB8fDB8fA%3D%3D&w=1000&q=80",
     text:
       "Edison bulb put a bird on it humblebrag, marfa pok pok heirloom fashion axe cray stumptown venmo actually seitan. VHS farm-to-table schlitz.",
   },
   {
-    id: 4,
-    name: "bill anderson",
+    id: 12,
+    name: "Noah plokdaij",
     img:
-      "https://res.cloudinary.com/diqqf3eq2/image/upload/v1586883423/person-4_t9nxjt.jpg",
+      "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8cmFuZG9tJTIwcGVvcGxlfGVufDB8fDB8fA%3D%3D&w=1000&q=80",
     text:
       "Edison bulb put a bird on it humblebrag, marfa pok pok heirloom fashion axe cray stumptown venmo actually seitan. VHS farm-to-table schlitz.",
   },
   {
-    id: 3,
-    name: "peter jones",
+    id: 13,
+    name: "victor jones",
     img:
-      "https://res.cloudinary.com/diqqf3eq2/image/upload/v1586883417/person-3_ipa0mj.jpg",
+      "https://pbs.twimg.com/media/D8XfdElXUAATutj.jpg",
     text:
       "Sriracha literally flexitarian irony, vape marfa unicorn. Glossier tattooed 8-bit, fixie waistcoat offal activated charcoal slow-carb marfa.",
   },
